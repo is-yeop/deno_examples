@@ -1,0 +1,2 @@
+https://deno.land/std@0.83.0/examples/welcome.ts
+https://deno.land/std@0.83.0/examples/curl.ts https://example.com
